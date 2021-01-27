@@ -173,6 +173,10 @@ h1,h2,h3,h4,h5,h6{
     color: blue;
 }
 
+.btn-pint{
+    color: orange;
+}
+
 .btn:hover{
     transform: scale(1.2);
     letter-spacing: 3px;
