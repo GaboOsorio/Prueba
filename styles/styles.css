@@ -277,6 +277,10 @@ footer ul li a:hover{
     clear: both;
 }
 
+.relleno {
+    clear: initial;
+}
+
 .margin-left {
     margin-left: 2em;
 }
